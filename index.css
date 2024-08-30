@@ -2,8 +2,7 @@
 body, p {
     margin: 0;
     padding: 0;
-    background-color: black;
-    
+    background-color: yellow;
 }
 
 body {
@@ -13,15 +12,12 @@ body {
     background-attachment: fixed; /* Optional: Keeps the background fixed */
 }
 
-
 /* Style the h1 element */
 h1 {
-    background: white;
+    background: blueviolet;
     background-clip: text;
-    color: transparent;
+    color: blue;
     font-weight: bold;
     font-size: 20px;
     text-align: center;
-
 }
-
